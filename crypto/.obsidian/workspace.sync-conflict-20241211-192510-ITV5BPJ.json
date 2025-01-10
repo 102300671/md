@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "a6491373554a2ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "41047be4e94c8a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233cf33026daf37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/crypto/buuctf/第一页.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb46023437419356",
+    "type": "split",
+    "children": [
+      {
+        "id": "118577457ec5da0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c337edb54da792a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6ed8c94ac5b38094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5528ebfdf3abcce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "d70e4234601d8942",
+    "type": "split",
+    "children": [
+      {
+        "id": "8602f92cdd7e56c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cce4d7bc68074c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "crypto/crypto/buuctf/第一页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一页 的反向链接列表"
+            }
+          },
+          {
+            "id": "9675a10c3a11bfef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "crypto/crypto/buuctf/第一页.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一页 的出链列表"
+            }
+          },
+          {
+            "id": "eb6c9bfb0f3aa7f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e418b2ab83e46863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c337edb54da792a8",
+  "lastOpenFiles": [
+    "crypto/crypto/buuctf/第二页.md",
+    "crypto/crypto/buuctf/~syncthing~第二页.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241204-004958-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241204-004958-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.pdf",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241202-181006-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241202-181006-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241202-180726-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241202-180726-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-231720-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241201-231720-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-231609-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241201-231609-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-220828-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241201-220828-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-220609-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241201-220609-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214518-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241201-214518-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214408-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214257-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214038-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-213907-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-213758-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183807-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183747-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183618-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183458-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183138-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-183124-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-181857-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-181847-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-181827-ITV5BPJ.md",
+    "Pasted image 20241201181723.png",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-181717-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-181657-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-175847-ITV5BPJ.md",
+    "Pasted image 20241128210341.png",
+    "Screenshot_2024_1127_202738.png",
+    "Screenshot_2024_1127_201324.png",
+    "Screenshot_2024_1127_195536.png",
+    "Screenshot_2024_1127_195344.png",
+    "crypto/Screenshot_2024_1126_152241.png",
+    "crypto/Screenshot_2024_1126_150203.png",
+    "crypto/Screenshot_2024_1126_145639.png",
+    "crypto/Screenshot_2024_1125_140458 1.png"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "a6491373554a2ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e01d92cce33091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab1b93dd03ffc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft/Mods目录及CurseForge链接.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mods目录及CurseForge链接"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb46023437419356",
+    "type": "split",
+    "children": [
+      {
+        "id": "118577457ec5da0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c337edb54da792a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6ed8c94ac5b38094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5528ebfdf3abcce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "d70e4234601d8942",
+    "type": "split",
+    "children": [
+      {
+        "id": "8602f92cdd7e56c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cce4d7bc68074c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "随便/程序设计语言（C）综合实验报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "程序设计语言（C）综合实验报告 的反向链接列表"
+            }
+          },
+          {
+            "id": "9675a10c3a11bfef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "crypto/crypto/buuctf/第一页.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一页 的出链列表"
+            }
+          },
+          {
+            "id": "eb6c9bfb0f3aa7f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e418b2ab83e46863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bab1b93dd03ffc3a",
+  "lastOpenFiles": [
+    "随便/程序设计语言（C）综合实验报告.md",
+    "随便/程序设计语言（C）综合实验报告 (1).md",
+    "随便/程序设计语言（C）综合实验报告.sync-conflict-20250102-111825-ITV5BPJ.md",
+    "随便/MarkdownFile.md",
+    "随便/vertopal.com_程序设计语言（C）综合实验报告.md",
+    "未命名.sync-conflict-20250102-112645-ITV5BPJ.canvas",
+    "~syncthing~未命名.sync-conflict-20250102-112645-ITV5BPJ.canvas.tmp",
+    "未命名.canvas",
+    "随便/程序设计语言（C）综合实验报告 (1).sync-conflict-20250102-112445-ITV5BPJ.md",
+    "随便/~syncthing~程序设计语言（C）综合实验报告 (1).sync-conflict-20250102-112445-ITV5BPJ.md.tmp",
+    "Minecraft/Mods目录及MC百科链接.md",
+    "随便/~syncthing~程序设计语言（C）综合实验报告.sync-conflict-20250102-111825-ITV5BPJ.md.tmp",
+    "随便/程序设计语言（C）综合实验报告.sync-conflict-20250102-111655-ITV5BPJ.md",
+    "随便/综合实验.md",
+    "随便/未命名.md",
+    "随便/~syncthing~综合实验.md.tmp",
+    "随便/综合实验.sync-conflict-20250102-004740-ITV5BPJ.md",
+    "随便/~syncthing~综合实验.sync-conflict-20250102-004740-ITV5BPJ.md.tmp",
+    "随便/~syncthing~未命名.md.tmp",
+    "未命名.md",
+    "随便",
+    "crypto/crypto/buuctf/第二页.md",
+    "crypto/crypto/buuctf/第二页.sync-conflict-20241211-193030-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第二页.sync-conflict-20241211-192950-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第二页.sync-conflict-20241211-192950-ITV5BPJ.md.tmp",
+    "Screenshot_2024_1211_182659.png",
+    "crypto/crypto/buuctf/~syncthing~第二页.md.tmp",
+    "屏幕截图 2024-12-11 192629.png",
+    "屏幕截图 2024-12-11 192620.png",
+    "crypto/crypto/buuctf/第一页.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241204-004958-ITV5BPJ.md",
+    "crypto/crypto/buuctf/~syncthing~第一页.sync-conflict-20241204-004958-ITV5BPJ.md.tmp",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241202-181006-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241202-180726-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-231720-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-231609-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-220828-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-220609-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214518-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214408-ITV5BPJ.md",
+    "crypto/crypto/buuctf/第一页.sync-conflict-20241201-214257-ITV5BPJ.md",
+    "Pasted image 20241201181723.png",
+    "Pasted image 20241128210341.png",
+    "Screenshot_2024_1127_202738.png",
+    "Screenshot_2024_1127_201324.png",
+    "Screenshot_2024_1127_195536.png",
+    "Screenshot_2024_1127_195344.png",
+    "crypto/Screenshot_2024_1126_152241.png"
+  ]
+}
